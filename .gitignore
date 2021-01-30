@@ -1,0 +1,12 @@
+.eggs/
+.tox/
+.vscode/
+.env
+build/
+dist/
+.cache
+*.egg-info/
+*.pyc
+*.pyo
+__pycache__
+bin/
